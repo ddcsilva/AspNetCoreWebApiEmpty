@@ -1,0 +1,11 @@
+﻿1 - Criar pasta Controllers no projeto
+2 - Ajustar método ConfigureServices() -> Json.Net
+3 - Ajustar método Configure() -> UseEndpoints
+4 - Criar classe C# com o prefixo Controller
+5 - Esta classe deve herdar de ControllerBase
+6 - Definir os atributos Route e ApiController
+7 - Criar os métodos Action
+8 - Usar os atributos HttpGet, HttpPost, HttpPut e HttpDelete
+9 - Ajustar launchSettings.json -> "launchUrl": "api/<controller>"
+
+OBS: Se for usar outros recursos deveremos incluir os pacotes Nuget perminentes
